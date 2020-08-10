@@ -29,5 +29,5 @@
 </a> <br>
 
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilxt&theme=dark&hide_langs_below=1" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilxt&theme=dark&hide_langs_below=1" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=jamilxt&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
