@@ -1,4 +1,4 @@
-### Hi, I'm jamilxt! 👋 
+### jamilxt! 👋 
 <img src="https://komarev.com/ghpvc/?username=jamilxt&label=Views&color=a4c639&style=plastic" alt="jamilxt" />
 
 - 🔭 I’m currently working on Fiverr.
@@ -26,7 +26,7 @@
   <img align="left" alt="jamilxt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> <a href="https://github.com/iampawan">
   <img align="left" alt="jamilxt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> <br>
 
 ### Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilxt&theme=dark&hide_langs_below=1" />
