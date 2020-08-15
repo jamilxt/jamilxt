@@ -1,6 +1,7 @@
 ### jamilxt! 👋 
 <img src="https://komarev.com/ghpvc/?username=jamilxt&label=Views&color=a4c639&style=plastic" alt="jamilxt" />
 
+<!--
 - 🔭 I’m currently working on Fiverr.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Open Source Projects.
@@ -9,7 +10,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jamilxt/) - [Twitter](https://twitter.com/jamil_xt)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love exploring new technologies and try new things. 
-
+-->
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
