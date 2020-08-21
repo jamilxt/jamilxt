@@ -21,11 +21,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 ### Connect
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/jamilxt">
   <img align="left" alt="jamilxt's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> <a href="https://twitter.com/jamilxt">
+</a> <a href="https://twitter.com/jamil_xt">
   <img align="left" alt="jamilxt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> <a href="https://github.com/iampawan">
+</a> <a href="https://github.com/jamilxt">
   <img align="left" alt="jamilxt's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> <br>
 
