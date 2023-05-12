@@ -21,6 +21,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 ### Connect
+<a href="https://youtube.com/@jamilxt">
+  <img align="left" alt="jamilxt's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <a href="https://linkedin.com/in/jamilxt">
   <img align="left" alt="jamilxt's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a href="https://twitter.com/jamil_xt">
