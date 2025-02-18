@@ -33,6 +33,11 @@
 </a> <br>
 
 ### Statistics
+![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilxt&theme=dark&hide_langs_below=1" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=jamilxt&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
