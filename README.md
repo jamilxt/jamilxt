@@ -33,6 +33,7 @@
 </a> <br>
 
 ### Statistics
+[![roadmap.sh](https://roadmap.sh/card/wide/6454466505999de060ba8dd0?variant=dark)](https://roadmap.sh)
 ![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/jamilxt/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
